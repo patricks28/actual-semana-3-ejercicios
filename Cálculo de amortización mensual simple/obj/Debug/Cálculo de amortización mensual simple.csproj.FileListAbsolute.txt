@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\bin\Debug\Cálculo de amortización mensual simple.exe.config
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\bin\Debug\Cálculo de amortización mensual simple.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\bin\Debug\Cálculo de amortización mensual simple.pdb
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\obj\Debug\Cálculo de amortización mensual simple.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\obj\Debug\Cálculo de amortización mensual simple.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\obj\Debug\Cálculo de amortización mensual simple.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de amortización mensual simple\Cálculo de amortización mensual simple\obj\Debug\Cálculo de amortización mensual simple.pdb
