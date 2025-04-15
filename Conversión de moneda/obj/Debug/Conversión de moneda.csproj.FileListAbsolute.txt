@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\bin\Debug\Conversión de moneda.exe.config
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\bin\Debug\Conversión de moneda.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\bin\Debug\Conversión de moneda.pdb
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\obj\Debug\Conversión de moneda.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\obj\Debug\Conversión de moneda.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\obj\Debug\Conversión de moneda.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Conversión de moneda\obj\Debug\Conversión de moneda.pdb
