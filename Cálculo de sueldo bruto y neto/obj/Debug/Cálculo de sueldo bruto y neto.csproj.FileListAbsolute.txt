@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\bin\Debug\Cálculo de sueldo bruto y neto.exe.config
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\bin\Debug\Cálculo de sueldo bruto y neto.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\bin\Debug\Cálculo de sueldo bruto y neto.pdb
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\obj\Debug\Cálculo de sueldo bruto y neto.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\obj\Debug\Cálculo de sueldo bruto y neto.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\obj\Debug\Cálculo de sueldo bruto y neto.exe
+C:\Users\achun\source\repos\ejercicios 3 xd\Cálculo de sueldo bruto y neto\obj\Debug\Cálculo de sueldo bruto y neto.pdb
